@@ -16,4 +16,4 @@ For fun and practice CSS syling. Use as you wish.
 Massachusetts Institute of Technology (MIT) (C)John Williams 2020. See LICENSE for more details.
 
 ## Roadmap:
-Anything goes.
+I plan to make a three-eyed monster and experiment with other ways to animate curser movement using Javascript on webpages.
